@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Bertumbuh"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Bertu"
+	}
+}
